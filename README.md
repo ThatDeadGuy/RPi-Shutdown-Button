@@ -1,7 +1,10 @@
 # RPi-Shutdown-Button
 Author: ThatDeadGuy
+
 Based on work by:
+
     Tony L Hansen: https://github.com/TonyLHansen/raspberry-pi-safe-off-switch
+    
     chuck-finley : https://www.instructables.com/id/Raspberry-Pi-Hardware-Reset-and-Shutdown-Buttons/
 
 
